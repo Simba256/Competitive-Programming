@@ -1,18 +1,18 @@
-**Repository Name:** Competitive-Programming
+**Greetings, fellow coding enthusiasts!** 🚀  
+Welcome to my Competitive Programming Attempts repository, a showcase of my journey tackling coding challenges across various platforms, including Codeforces, AtCoder, LeetCode, CSES.fi, Project Euler, Advent of Code, and the prestigious ICPC.  
 
-**Description:**
-Greetings, fellow coding enthusiasts! 🚀 This is my Competitive Programming Attempts repository, a space where I share the journey of tackling coding challenges from various platforms, including Codeforces, Advent of Code, and ICPC. As a dedicated Computer Science student at GIKI, class of 2025, and proud to represent Pakistan in the upcoming ICPC World Finals in Egypt, I've decided to showcase not just the successes but the entire spectrum of attempts.
+As a Computer Science student at GIKI (Class of 2025) and a **2-time ICPC World Finalist** (Honourable Mention at both the 2023 Finals in Luxor, Egypt, and the 2024 Finals in Astana, Kazakhstan), I’m excited to share not just my successes but the full spectrum of my attempts in competitive programming.
 
-**What's Inside:**
-- A candid compilation of both correct and incorrect solutions to problems from Codeforces, Advent of Code, and ICPC.
-- Organized folders categorizing attempts based on contest platforms and years, providing a comprehensive view of my progress.
-- In-depth commentary on code, detailing the logic and thought process behind each attempt.
-- Embracing the learning curve – from initial struggles to triumphant solutions.
+### **What's Inside:**
+- A comprehensive collection of correct and incorrect solutions from platforms like Codeforces, AtCoder, LeetCode, CSES.fi, and ICPC contests.
+- Structured folders organized by contest platform and year, providing insight into my competitive programming evolution.
+- Detailed commentary on my code, explaining the logic and problem-solving techniques behind each attempt.
+- Embracing the learning process, from initial challenges to ultimate solutions.
 
-**Why Explore:**
-This repository offers a transparent look into the learning process of a competitive programmer. Whether you're a seasoned coder or just starting your journey, you'll find value in understanding the challenges, failures, and successes that contribute to growth.
+### **Why Explore:**
+This repository offers a transparent look into the growth of a competitive programmer. Whether you're a beginner or an experienced coder, you’ll find valuable insights into the hurdles, setbacks, and victories that shape improvement in competitive programming.
 
-**Connect with Me:**
-Join me in this coding odyssey! I welcome discussions, insights, and collaborative opportunities. Let's navigate the world of competitive programming together and celebrate the journey.
+### **Connect with Me:**
+Let’s embark on this coding adventure together! I’m always open to discussions, feedback, and collaborative opportunities. Let’s conquer the world of coding challenges and celebrate the journey.
 
-Happy Coding! 🖥️✨
+**Happy Coding!** 🖥️✨
