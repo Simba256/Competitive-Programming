@@ -13,4 +13,5 @@
 # Ignore in.txt and out.txt in any subdirectory
 **/in.txt
 **/out.txt
+**/outt.txt
 **/tempCodeRunnerFile.cpp
