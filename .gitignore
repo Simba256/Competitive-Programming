@@ -1,4 +1,4 @@
-# Ignore .txt, .exe, .zip files
+# Ignore .txt, .exe, .zip files in the entire repository
 *.txt
 *.exe
 *.zip
@@ -9,3 +9,8 @@
 
 # Ignore .vscode folder
 .vscode/
+
+# Ignore in.txt and out.txt in any subdirectory
+**/in.txt
+**/out.txt
+**/tempCodeRunnerFile.cpp
