@@ -1,0 +1,11 @@
+# Ignore .txt, .exe, .zip files
+*.txt
+*.exe
+*.zip
+
+# Ignore files with no extension
+*.
+!*.*  # Don't ignore files with extensions
+
+# Ignore .vscode folder
+.vscode/
